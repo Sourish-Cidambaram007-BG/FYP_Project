@@ -1,11 +1,11 @@
-fastapi==0.110.0
-uvicorn[standard]==0.29.0
+fastapi
+uvicorn[standard]
 
-torch==2.2.2
-torchvision==0.17.2
+torch
+torchvision
 
-transformers==4.40.1
-sentence-transformers==2.6.1
+transformers
+sentence-transformers
 
 openai-whisper
 

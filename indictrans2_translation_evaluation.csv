@@ -1,0 +1,17 @@
+Source_Text,Source_Language,Predicted_English,Reference_English,BLEU,chrF
+கற்றாழை ஒரு மருத்துவ மூலிகை ஆகும்.,tam_Taml,Aloe vera is a medicinal herb.,Aloe vera is a medicinal herb.,100.00000000000004,100.0
+இஞ்சி ஒரு முக்கியமான மருத்துவ வேர்.,tam_Taml,Ginger is an important medicinal root.,Ginger is an important medicinal root.,100.00000000000004,100.0
+மஞ்சள் ஒரு மருத்துவ பயிர் ஆகும்.,tam_Taml,Turmeric is a medicinal plant.,Turmeric is a medicinal crop.,100.00000000000004,100.0
+आंवला एक औषधीय फल है।,hin_Deva,Amla is a medicinal fruit.,Amla is a medicinal fruit.,100.00000000000004,100.0
+लहसुन के औषधीय उपयोग होते हैं।,hin_Deva,Garlic has medicinal uses.,Garlic has medicinal uses.,100.00000000000004,100.0
+हल्दी का उपयोग औषधि के रूप में किया जाता है।,hin_Deva,Turmeric is used as a medicine.,Turmeric is used as medicine.,100.00000000000004,100.0
+వెల్లుల్లి ఔషధ గుణాలు కలిగి ఉంటుంది.,tel_Telu,Garlic has medicinal properties.,Garlic has medicinal properties.,100.00000000000004,100.0
+ఉసిరికాయ ఒక ఔషధ ఫలం.,tel_Telu,Amla is a medicinal fruit.,Amla is a medicinal fruit.,100.00000000000004,100.0
+అల్లం ఒక ఔషధ వేరు.,tel_Telu,Ginger is a medicinal herb.,Ginger is a medicinal root.,100.00000000000004,100.0
+മഞ്ഞൾ ഒരു ഔഷധ സസ്യമാണ്.,mal_Mlym,Turmeric is a medicinal plant.,Turmeric is a medicinal plant.,100.00000000000004,100.0
+കറ്റാർവാഴ ഒരു ഔഷധ സസ്യമാണ്.,mal_Mlym,Aloe vera is a medicinal plant.,Aloe vera is a medicinal plant.,100.00000000000004,100.0
+ಬೆಳ್ಳುಳ್ಳಿ ಒಂದು ಔಷಧೀಯ ಸಸ್ಯವಾಗಿದೆ.,kan_Knda,Garlic is a medicinal plant.,Garlic is a medicinal plant.,100.00000000000004,100.0
+ಅಶ್ವಗಂಧ ಒಂದು ಔಷಧೀಯ ಸಸ್ಯವಾಗಿದೆ.,kan_Knda,Ashwagandha is a medicinal plant.,Ashwagandha is a medicinal plant.,100.00000000000004,100.0
+आले एक औषधी वनस्पती आहे.,mar_Deva,Ginger is a medicinal plant.,Ginger is a medicinal plant.,100.00000000000004,100.0
+हळद औषध म्हणून वापरली जाते.,mar_Deva,Turmeric is used as a medicine.,Turmeric is used as medicine.,100.00000000000004,100.0
+"மருத்துவ தாவரங்கள் மனித ஆரோக்கியத்திற்கு மிகவும் முக்கியமானவை. வேப்ப மரம், துளசி மற்றும் கற்றாழை போன்ற தாவரங்கள் நோய் எதிர்ப்பு சக்தியை அதிகரிக்கவும் பாரம்பரிய மருத்துவத்தில் பயன்படுகின்றன.",tam_Taml,"Medicinal plants are very important for human health. Plants such as neem tree, tulsi, and aloe vera are also used in traditional medicine to boost immunity.","Medicinal plants are very important for human health. Plants such as neem, tulsi, and aloe vera are used in traditional medicine to improve immunity.",100.00000000000004,100.0

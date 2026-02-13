@@ -1,0 +1,43 @@
+# Virtual environments
+fyp_image_env/
+fyp_nlp_env/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large models & data
+models/
+*.keras
+*.pt
+*.pth
+*.bin
+*.zip
+*.h5
+*.onnx
+
+# Dataset folders
+PlantNet-300K/
+data/plantnet_300K/
+data/
+
+# External repos
+IndicTransToolkit/
+zlib-win-x64/
+
+# Flutter app (if not needed)
+fyp_ml_app/
+
+# Audio
+*.wav
+
+# Logs & outputs
+logs/
+outputs/
+evaluation/
+
+# OS files
+Thumbs.db
+.DS_Store

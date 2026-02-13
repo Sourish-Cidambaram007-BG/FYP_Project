@@ -10,4 +10,3 @@ app.mount("/image", image_app)
 @app.get("/")
 def root():
     return {"status": "FYP Backend Running"}
-
